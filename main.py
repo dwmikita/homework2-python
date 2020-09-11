@@ -1,5 +1,6 @@
 # Author: Daniel Mikita djm6907@psu.edu
 
+
 def getGradePoint(grade):
   if (grade == 'A'):
     return 4.0
