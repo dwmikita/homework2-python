@@ -18,7 +18,7 @@ def getGradePoint(grade):
   elif (grade == 'D'):
     return 1.0
   else:
-    return 0.0
+    return 0.0 
 
 def run():
   letter1 = input("Enter your course 1 grade: ")
